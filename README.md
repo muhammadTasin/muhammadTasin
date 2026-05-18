@@ -16,11 +16,11 @@ Based in Bangladesh. Open to junior full-stack developer roles, internships, and
 
 ## Skills & Tools
 
-**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs, JWT authentication  
-**Databases:** MongoDB, Firestore, Supabase/PostgreSQL  
-**Tools & Platforms:** Prisma ORM, Firebase Auth, Git, GitHub, Vercel, Render  
-**Practices:** AI-assisted development, feature planning, debugging, API design, documentation
+- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, JWT authentication
+- **Databases:** MongoDB, Firestore, Supabase/PostgreSQL
+- **Tools & Platforms:** Prisma ORM, Firebase Auth, Git, GitHub, Vercel, Render
+- **Practices:** AI-assisted development, feature planning, debugging, API design, documentation
 
 ---
 
