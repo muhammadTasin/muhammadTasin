@@ -109,6 +109,8 @@ I am open to **junior full-stack developer roles, internships, freelance project
 ## Contact
 
 **GitHub:** github.com/muhammadTasin
+
 **LinkedIn:** linkedin.com/in/md-tasfiq-tasin-701634359
+
 **Email:** [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
 
