@@ -1,14 +1,15 @@
 # Muhammad Tasin
 
-### Junior Full-Stack Developer | React • Next.js • Node.js • Flutter • AI Integration
+### AI-Focused Backend Developer | Full-Stack & Flutter App Developer | LLM Integration • RAG • REST APIs
 
-I am a junior full-stack developer from Bangladesh, focused on building practical web and mobile applications with clean UI, structured backend logic, authentication, database handling, and deployment-ready workflows.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammadTasin&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/muhammadTasin?label=stars&style=flat&color=blue" alt="GitHub stars" />
+</p>
 
-My work mainly includes **TypeScript, React, Next.js, Node.js, Express, Flutter, Firebase, Supabase/PostgreSQL, Prisma, MongoDB, and REST APIs**. I have hands-on experience building full-stack projects with authentication, role-based access, database models, API integration, and real-world application flows.
+I am an AI-focused backend and full-stack developer from Bangladesh, building practical web and mobile applications with backend APIs, authentication, database-driven workflows, Flutter app structures, and AI-powered features.
 
-I have also worked on mobile app development using **Flutter**, including dashboard-style UI, role-based screens, navigation flows, and backend-connected app structures. Alongside that, I have experience handling databases such as **Firestore, MongoDB, and Supabase/PostgreSQL**, including user-specific data, relational models, authentication-linked records, and backend-driven data flow.
-
-I am especially interested in **AI-integrated applications**. I have worked with AI-assisted features such as AI-generated insights, AI chat flows, structured AI responses, and AI-supported development workflows.
+My work focuses on **LLM integration, AI chat flows, structured AI responses, RAG-style application logic, REST APIs, database handling, and full-stack product development**. I also build frontend and mobile interfaces using **React, Next.js, TypeScript, Flutter, and Dart** to connect real users with backend and AI-powered systems.
 
 ---
 
@@ -38,16 +39,11 @@ I am especially interested in **AI-integrated applications**. I have worked with
 
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td><strong>AI / LLM</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart" />
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-222222?style=for-the-badge&logo=databricks&logoColor=white" />
     </td>
   </tr>
 
@@ -66,11 +62,16 @@ I am especially interested in **AI-integrated applications**. I have worked with
   </tr>
 
   <tr>
-    <td><strong>AI / API</strong></td>
+    <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG-222222?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart" />
     </td>
   </tr>
 
@@ -101,8 +102,8 @@ I am especially interested in **AI-integrated applications**. I have worked with
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" alt="Muhammad Tasin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" alt="Muhammad Tasin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -110,7 +111,7 @@ I am especially interested in **AI-integrated applications**. I have worked with
 ## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=muhammadTasin&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=muhammadTasin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -118,18 +119,18 @@ I am especially interested in **AI-integrated applications**. I have worked with
 ## 📈 Activity Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadTasin&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadTasin&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## What I Work With
 
-- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
-- **Mobile:** Flutter, Dart, role-based app screens, mobile UI flows
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **AI Integration:** LLM apps, AI chat features, structured AI responses, RAG-style workflows, AI-generated insights
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, backend logic, API design
 - **Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
-- **AI Integration:** AI-generated insights, AI chat features, structured AI responses, AI-assisted workflows
+- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
+- **Mobile:** Flutter, Dart, role-based app screens, backend-connected mobile flows
 - **Tools & Platforms:** Git, GitHub, Vercel, Render, Firebase Hosting
 - **Learning:** Java DSA, Python scripting, backend architecture, system design basics
 
@@ -213,7 +214,7 @@ Key areas:
 
 ## Open To
 
-I am open to **junior full-stack developer roles, internships, freelance projects, and practical project-based opportunities** where I can contribute, learn, and build real products.
+I am open to **junior backend developer roles, AI-integrated app projects, full-stack developer roles, internships, freelance projects, and practical project-based opportunities** where I can contribute, learn, and build real products.
 
 ---
 
