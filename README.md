@@ -8,19 +8,130 @@ My work mainly includes **TypeScript, React, Next.js, Node.js, Express, Flutter,
 
 I have also worked on mobile app development using **Flutter**, including dashboard-style UI, role-based screens, navigation flows, and backend-connected app structures. Alongside that, I have experience handling databases such as **Firestore, MongoDB, and Supabase/PostgreSQL**, including user-specific data, relational models, authentication-linked records, and backend-driven data flow.
 
-I am especially interested in **AI-integrated applications**. I have worked with AI-assisted features such as AI-generated insights, AI chat flows, structured AI responses, and AI-supported development workflows. I use AI tools for planning, debugging, documentation, refactoring, and faster iteration, while keeping the final code understandable and maintainable.
+I am especially interested in **AI-integrated applications**. I have worked with AI-assisted features such as AI-generated insights, AI chat flows, structured AI responses, and AI-supported development workflows.
+
+---
+
+## 🌐 Find Me In
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-tasfiq-tasin-701634359/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/muhammadTasin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/tasin.zaman.tasfiq.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/MuhammadTasin_9" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,prisma" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI / API</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-222222?style=for-the-badge&logo=databricks&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools / IDEs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,docker" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating System</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=muhammadTasin&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadTasin&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## What I Work With
 
-**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
-**Mobile:** Flutter, Dart, role-based app screens, mobile UI flows
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-**Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
-**AI Integration:** AI-generated insights, AI chat features, structured AI responses, AI-assisted workflows
-**Tools & Platforms:** Git, GitHub, Vercel, Render, Firebase Hosting
-**Learning:** Java DSA, Python scripting, backend architecture, system design basics
+- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
+- **Mobile:** Flutter, Dart, role-based app screens, mobile UI flows
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
+- **AI Integration:** AI-generated insights, AI chat features, structured AI responses, AI-assisted workflows
+- **Tools & Platforms:** Git, GitHub, Vercel, Render, Firebase Hosting
+- **Learning:** Java DSA, Python scripting, backend architecture, system design basics
 
 ---
 
@@ -34,11 +145,11 @@ A full-stack storytelling platform where users can publish and read stories with
 
 Key work:
 
-* Designed story publishing and reading flow.
-* Implemented structured database modeling with Prisma.
-* Connected the app with Supabase/PostgreSQL.
-* Added estimated read-time tracking.
-* Focused on clean full-stack structure and practical user flow.
+- Designed story publishing and reading flow.
+- Implemented structured database modeling with Prisma.
+- Connected the app with Supabase/PostgreSQL.
+- Added estimated read-time tracking.
+- Focused on clean full-stack structure and practical user flow.
 
 ---
 
@@ -50,11 +161,11 @@ A role-aware maintenance dashboard for tracking aircraft records, maintenance ta
 
 Key work:
 
-* Built a full-stack dashboard with frontend, backend, and database layers.
-* Implemented authentication and role-based access control.
-* Created REST API structure for aircraft, tasks, defects, and alerts.
-* Used MongoDB and Mongoose for structured data handling.
-* Added backend hardening with validation, token expiry, rate limiting, and production-focused structure.
+- Built a full-stack dashboard with frontend, backend, and database layers.
+- Implemented authentication and role-based access control.
+- Created REST API structure for aircraft, tasks, defects, and alerts.
+- Used MongoDB and Mongoose for structured data handling.
+- Added backend hardening with validation, token expiry, rate limiting, and production-focused structure.
 
 ---
 
@@ -66,11 +177,11 @@ A personal habit-tracking app for daily ibadah and good deeds, with Google login
 
 Key work:
 
-* Implemented Google authentication with Firebase.
-* Stored user-specific daily tracking data in Firestore.
-* Added prayer-time integration for the Asia/Dhaka timezone.
-* Integrated optional AI-powered daily insights.
-* Focused on responsive UI and personal data separation.
+- Implemented Google authentication with Firebase.
+- Stored user-specific daily tracking data in Firestore.
+- Added prayer-time integration for the Asia/Dhaka timezone.
+- Integrated optional AI-powered daily insights.
+- Focused on responsive UI and personal data separation.
 
 ---
 
@@ -80,23 +191,23 @@ I have hands-on experience working on Flutter-based mobile app development, incl
 
 Key areas:
 
-* Flutter and Dart-based UI development.
-* Role-based mobile screens for different user types.
-* Dashboard and map-style interface planning.
-* Backend API connection structure.
-* Security-aware mobile development approach.
-* Building APK-ready app flows for testing and demo purposes.
+- Flutter and Dart-based UI development.
+- Role-based mobile screens for different user types.
+- Dashboard and map-style interface planning.
+- Backend API connection structure.
+- Security-aware mobile development approach.
+- Building APK-ready app flows for testing and demo purposes.
 
 ---
 
 ## Currently Improving
 
-* Data structures and algorithms using Java.
-* Python fundamentals for scripting and automation.
-* Backend API design, authentication, database modeling, and deployment.
-* Flutter mobile app development and backend-connected app architecture.
-* AI integration for practical products, including AI chat, AI insights, and structured AI outputs.
-* Production-minded development habits: cleaner project structure, documentation, security awareness, and maintainable code.
+- Data structures and algorithms using Java.
+- Python fundamentals for scripting and automation.
+- Backend API design, authentication, database modeling, and deployment.
+- Flutter mobile app development and backend-connected app architecture.
+- AI integration for practical products, including AI chat, AI insights, and structured AI outputs.
+- Production-minded development habits: cleaner project structure, documentation, security awareness, and maintainable code.
 
 ---
 
@@ -108,9 +219,6 @@ I am open to **junior full-stack developer roles, internships, freelance project
 
 ## Contact
 
-**GitHub:** github.com/muhammadTasin
-
-**LinkedIn:** linkedin.com/in/md-tasfiq-tasin-701634359
-
-**Email:** [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
-
+- **GitHub:** https://github.com/muhammadTasin
+- **LinkedIn:** https://www.linkedin.com/in/md-tasfiq-tasin-701634359/
+- **Email:** [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
