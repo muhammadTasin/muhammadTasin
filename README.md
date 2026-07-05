@@ -128,12 +128,20 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
     </td>
   </tr>
 
-  <tr>
-    <td><strong>Operating Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
-    </td>
-  </tr>
+<tr>
+  <td><strong>Operating Systems</strong></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Virtualization</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux_VMs-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  </td>
+</tr>
 </table>
 
 ---
