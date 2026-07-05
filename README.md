@@ -122,11 +122,11 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
   </tr>
 
   <tr>
-    <td><strong>Tools / IDEs</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,docker" />
-    </td>
-  </tr>
+  <td><strong>Tools / IDEs</strong></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,figma,postman,docker" />
+  </td>
+</tr>
 
 <tr>
   <td><strong>Operating Systems</strong></td>
