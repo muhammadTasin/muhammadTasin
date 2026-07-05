@@ -9,8 +9,9 @@ AI-Focused Backend Developer | Full-Stack & Flutter App Developer
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadTasin&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/muhammadTasin?label=stars&style=for-the-badge&color=blue" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadTasin&label=Total%20Visitors&color=blueviolet&style=for-the-badge" alt="Total visitors" />
+  <img src="https://img.shields.io/github/followers/muhammadTasin?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/muhammadTasin?label=Stars&style=for-the-badge&color=blue" alt="GitHub stars" />
 </p>
 
 I build practical AI-integrated web and mobile applications with backend APIs, authentication, database-driven workflows, Flutter app structures, and AI-powered features.
@@ -38,8 +39,8 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
 <h2 align="left">📊 GitHub Activity and Top Languages</h2>
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=3" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=3" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=4" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=4" alt="Top languages" />
 </p>
 
 ---
@@ -122,27 +123,52 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
   </tr>
 
   <tr>
-  <td><strong>Tools / IDEs</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,figma,postman,docker" />
-  </td>
-</tr>
+    <td><strong>Tools / IDEs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,postman,docker" />
+    </td>
+  </tr>
 
-<tr>
-  <td><strong>Operating Systems</strong></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
-  </td>
-</tr>
+  <tr>
+    <td><strong>AI Coding Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
 
-<tr>
-  <td><strong>Virtualization</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux_VMs-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  </td>
-</tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Virtualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_VMs-333333?style=for-the-badge&logo=linux&logoColor=white" />
+    </td>
+  </tr>
 </table>
+
+---
+
+<h2 align="left">🚀 What I Work With</h2>
+
+- **AI Integration:** LLM apps, AI chat features, structured AI responses, RAG-style workflows, AI-generated insights
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, backend logic, API design
+- **Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
+- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
+- **Mobile:** Flutter, Dart, role-based app screens, backend-connected mobile flows
+- **Linux & Virtualization:** Ubuntu, Kali Linux, VirtualBox, Linux VM setup, development environment configuration
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, IntelliJ IDEA Ultimate, PyCharm, Postman, Docker, Vercel, Render, Firebase Hosting
+- **AI Coding Tools:** Antigravity, Codex, Claude Code, Gemini CLI, AI-assisted planning, debugging, refactoring, and documentation
+- **Learning:** Java DSA, Python scripting, backend architecture, system design basics
 
 ---
 
@@ -185,6 +211,7 @@ Hands-on experience building Flutter-based mobile app flows with dashboard UI, n
 - Backend API design and authentication
 - Flutter mobile app architecture
 - AI-integrated product development
+- Linux environment handling, Kali Linux practice, and VirtualBox-based VM workflows
 - Production-minded development, documentation, and security awareness
 
 ---
