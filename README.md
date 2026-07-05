@@ -1,41 +1,80 @@
-# Muhammad Tasin
+<h1 align="left">Muhammad Tasin</h1>
 
-### AI-Focused Backend Developer | Full-Stack & Flutter App Developer | LLM Integration • RAG • REST APIs
+<h3 align="left">
+AI-Focused Backend Developer | Full-Stack & Flutter App Developer
+</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadTasin&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/muhammadTasin?label=stars&style=flat&color=blue" alt="GitHub stars" />
+  <strong>LLM Integration • RAG • REST APIs • Databases • Flutter • React • Next.js</strong>
 </p>
 
-I am an AI-focused backend and full-stack developer from Bangladesh, building practical web and mobile applications with backend APIs, authentication, database-driven workflows, Flutter app structures, and AI-powered features.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammadTasin&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/muhammadTasin?label=stars&style=for-the-badge&color=blue" alt="GitHub stars" />
+</p>
 
-My work focuses on **LLM integration, AI chat flows, structured AI responses, RAG-style application logic, REST APIs, database handling, and full-stack product development**. I also build frontend and mobile interfaces using **React, Next.js, TypeScript, Flutter, and Dart** to connect real users with backend and AI-powered systems.
+I build practical AI-integrated web and mobile applications with backend APIs, authentication, database-driven workflows, Flutter app structures, and AI-powered features.
+
+My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style workflows, REST APIs, database handling, and full-stack product development**.
 
 ---
 
-## 🌐 Find Me In
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="left">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=muhammadTasin&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<p align="left">
+  <img width="620" src="https://streak-stats.demolab.com?user=muhammadTasin&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Activity and Top Languages</h2>
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=3" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=3" alt="Top languages" />
+</p>
+
+---
+
+<h2 align="left">📈 Activity Graph</h2>
+
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadTasin&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+<h2 align="left">🌐 Find Me In</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-tasfiq-tasin-701634359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Tasin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/muhammadTasin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-muhammadTasin-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.facebook.com/tasin.zaman.tasfiq.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Tasin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
   <a href="https://x.com/MuhammadTasin_9" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-MuhammadTasin__9-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <table>
   <tr>
@@ -90,7 +129,7 @@ My work focuses on **LLM integration, AI chat flows, structured AI responses, RA
   </tr>
 
   <tr>
-    <td><strong>Operating System</strong></td>
+    <td><strong>Operating Systems</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
     </td>
@@ -99,127 +138,51 @@ My work focuses on **LLM integration, AI chat flows, structured AI responses, RA
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">🚀 Featured Work</h2>
 
-<p align="left">
-  <img height="165" alt="Muhammad Tasin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadTasin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="165" alt="Muhammad Tasin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTasin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=muhammadTasin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadTasin&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## What I Work With
-
-- **AI Integration:** LLM apps, AI chat features, structured AI responses, RAG-style workflows, AI-generated insights
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, backend logic, API design
-- **Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
-- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
-- **Mobile:** Flutter, Dart, role-based app screens, backend-connected mobile flows
-- **Tools & Platforms:** Git, GitHub, Vercel, Render, Firebase Hosting
-- **Learning:** Java DSA, Python scripting, backend architecture, system design basics
-
----
-
-## Featured Projects
-
-### Qasas — Story Sharing Platform
+<h3>Qasas — Story Sharing Platform</h3>
 
 A full-stack storytelling platform where users can publish and read stories with estimated read-time tracking.
 
-**Built with:** Next.js App Router, TypeScript, Prisma ORM, Supabase/PostgreSQL
-
-Key work:
-
-- Designed story publishing and reading flow.
-- Implemented structured database modeling with Prisma.
-- Connected the app with Supabase/PostgreSQL.
-- Added estimated read-time tracking.
-- Focused on clean full-stack structure and practical user flow.
+<strong>Built with:</strong> Next.js App Router, TypeScript, Prisma ORM, Supabase/PostgreSQL
 
 ---
 
-### Aircraft Maintenance Tracker v2 — Full-Stack Maintenance System
+<h3>Aircraft Maintenance Tracker v2</h3>
 
 A role-aware maintenance dashboard for tracking aircraft records, maintenance tasks, defects, operational alerts, and technical history.
 
-**Built with:** React, Vite, Node.js, Express, MongoDB, Mongoose, JWT
-
-Key work:
-
-- Built a full-stack dashboard with frontend, backend, and database layers.
-- Implemented authentication and role-based access control.
-- Created REST API structure for aircraft, tasks, defects, and alerts.
-- Used MongoDB and Mongoose for structured data handling.
-- Added backend hardening with validation, token expiry, rate limiting, and production-focused structure.
+<strong>Built with:</strong> React, Vite, Node.js, Express, MongoDB, Mongoose, JWT
 
 ---
 
-### Falah — Ibadah & Amal Tracker
+<h3>Falah — Ibadah & Amal Tracker</h3>
 
-A personal habit-tracking app for daily ibadah and good deeds, with Google login, per-user Firestore data, prayer-time integration, and optional AI-generated reflections.
+A personal habit-tracking app with Google login, per-user Firestore data, prayer-time integration, and optional AI-generated reflections.
 
-**Built with:** React, TypeScript, Vite, Firebase Auth, Firestore, Firebase Hosting, Google GenAI
-
-Key work:
-
-- Implemented Google authentication with Firebase.
-- Stored user-specific daily tracking data in Firestore.
-- Added prayer-time integration for the Asia/Dhaka timezone.
-- Integrated optional AI-powered daily insights.
-- Focused on responsive UI and personal data separation.
+<strong>Built with:</strong> React, TypeScript, Vite, Firebase Auth, Firestore, Firebase Hosting, Google GenAI
 
 ---
 
-### Flutter App Development Experience
+<h3>Flutter App Development</h3>
 
-I have hands-on experience working on Flutter-based mobile app development, including dashboard UI, navigation, role-based screens, backend-connected flows, and app structure planning.
-
-Key areas:
-
-- Flutter and Dart-based UI development.
-- Role-based mobile screens for different user types.
-- Dashboard and map-style interface planning.
-- Backend API connection structure.
-- Security-aware mobile development approach.
-- Building APK-ready app flows for testing and demo purposes.
+Hands-on experience building Flutter-based mobile app flows with dashboard UI, navigation, role-based screens, backend-connected structures, and APK-ready testing flows.
 
 ---
 
-## Currently Improving
+<h2 align="left">🎯 Currently Improving</h2>
 
-- Data structures and algorithms using Java.
-- Python fundamentals for scripting and automation.
-- Backend API design, authentication, database modeling, and deployment.
-- Flutter mobile app development and backend-connected app architecture.
-- AI integration for practical products, including AI chat, AI insights, and structured AI outputs.
-- Production-minded development habits: cleaner project structure, documentation, security awareness, and maintainable code.
-
----
-
-## Open To
-
-I am open to **junior backend developer roles, AI-integrated app projects, full-stack developer roles, internships, freelance projects, and practical project-based opportunities** where I can contribute, learn, and build real products.
+- Java data structures and algorithms
+- Python scripting and automation
+- Backend API design and authentication
+- Flutter mobile app architecture
+- AI-integrated product development
+- Production-minded development, documentation, and security awareness
 
 ---
 
-## Contact
+<h2 align="left">📬 Contact</h2>
 
-- **GitHub:** https://github.com/muhammadTasin
-- **LinkedIn:** https://www.linkedin.com/in/md-tasfiq-tasin-701634359/
-- **Email:** [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
+- GitHub: https://github.com/muhammadTasin
+- LinkedIn: https://www.linkedin.com/in/md-tasfiq-tasin-701634359/
+- Email: [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
