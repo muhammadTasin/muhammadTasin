@@ -204,6 +204,15 @@ Hands-on experience building Flutter-based mobile app flows with dashboard UI, n
 
 ---
 
+<h2 align="left">📌 Popular Repositories</h2>
+
+- **[SalesBondhu-AI](https://github.com/muhammadTasin/SalesBondhu-AI)** - AI-powered sales assistant platform
+- **[Desi Digest](https://github.com/muhammadTasin/DesiDigest)** - South Asian content aggregation platform
+- **[CourseVault](https://github.com/muhammadTasin/CourseVault)** - Course management and learning platform
+- **[LaTeX Tool](https://github.com/muhammadTasin/LaTeX-Tool)** - LaTeX document compilation and rendering tool
+
+---
+
 <h2 align="left">🎯 Currently Improving</h2>
 
 - Java data structures and algorithms
