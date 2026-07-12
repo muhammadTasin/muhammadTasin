@@ -5,7 +5,7 @@ AI-Focused Backend Developer | Full-Stack & Flutter App Developer
 </h3>
 
 <p align="left">
-  <strong>LLM Integration • RAG • REST APIs • Databases • Flutter • React • Next.js</strong>
+  <strong>LLM Integration • RAG • FastAPI • REST APIs • PostgreSQL/Supabase • Flutter • React/Next.js</strong>
 </p>
 
 <p align="left">
@@ -14,9 +14,11 @@ AI-Focused Backend Developer | Full-Stack & Flutter App Developer
   <img src="https://img.shields.io/github/stars/muhammadTasin?label=Stars&style=for-the-badge&color=blue" alt="GitHub stars" />
 </p>
 
-I build practical AI-integrated web and mobile applications with backend APIs, authentication, database-driven workflows, Flutter app structures, and AI-powered features.
+I build practical AI-integrated web and mobile applications — secure backend APIs (FastAPI/Python), authentication, database-driven workflows, Flutter app structures, and context-aware LLM features.
 
-My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style workflows, REST APIs, database handling, and full-stack product development**.
+My main focus is **LLM apps, RAG-style workflows, structured AI responses, REST APIs, database design, and full-stack + mobile product development.**
+
+Portfolio: [muhammad-tasin-portfolio.vercel.app](https://muhammad-tasin-portfolio.vercel.app/)
 
 ---
 
@@ -59,15 +61,9 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
   <a href="https://www.linkedin.com/in/md-tasfiq-tasin-701634359/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Tasin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/muhammadTasin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-muhammadTasin-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://www.facebook.com/tasin.zaman.tasfiq.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Tasin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
   <a href="https://x.com/MuhammadTasin_9" target="_blank">
     <img src="https://img.shields.io/badge/X-MuhammadTasin__9-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
@@ -90,14 +86,14 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+      <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,prisma" />
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,mongodb,prisma" />
     </td>
   </tr>
 
@@ -160,56 +156,43 @@ My main focus is **LLM apps, AI chat flows, structured AI responses, RAG-style w
 
 <h2 align="left">🚀 What I Work With</h2>
 
-- **AI Integration:** LLM apps, AI chat features, structured AI responses, RAG-style workflows, AI-generated insights
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, backend logic, API design
-- **Databases:** MongoDB, Mongoose, Firestore, Supabase/PostgreSQL, Prisma ORM
+- **AI Integration:** LLM apps, RAG-style workflows, structured AI responses, AI safety fallback routing
+- **Backend:** FastAPI, Python, REST APIs, JWT authentication, Node.js/Express (earlier projects)
+- **Databases:** PostgreSQL, Supabase, Firebase/Firestore, MongoDB, Prisma ORM
 - **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS
 - **Mobile:** Flutter, Dart, role-based app screens, backend-connected mobile flows
-- **Linux & Virtualization:** Ubuntu, Kali Linux, VirtualBox, Linux VM setup, development environment configuration
-- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, IntelliJ IDEA Ultimate, PyCharm, Postman, Docker, Vercel, Render, Firebase Hosting
-- **AI Coding Tools:** Antigravity, Codex, Claude Code, Gemini CLI, AI-assisted planning, debugging, refactoring, and documentation
+- **Linux & Virtualization:** Ubuntu, Kali Linux, VirtualBox, VM setup
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, IntelliJ IDEA, PyCharm, Postman, Docker, Vercel
+- **AI Coding Tools:** Antigravity, Codex, Claude Code, Gemini CLI
 - **Learning:** Java DSA, Python scripting, backend architecture, system design basics
 
 ---
 
-<h2 align="left">🚀 Featured Work</h2>
+<h2 align="left">⭐ Flagship Projects</h2>
 
-<h3>Qasas — Story Sharing Platform</h3>
+### [SalesBondhu AI](https://github.com/muhammadTasin/SalesBondhu-AI)
+Field-sales trust platform — GPS visit verification, manager review dashboards, and a context-aware Bangla AI sales coach.
+`Flutter` `FastAPI` `Python` `Supabase` `PostgreSQL` `JWT`
 
-A full-stack storytelling platform where users can publish and read stories with estimated read-time tracking.
+### [Desi Digest](https://github.com/muhammadTasin/Desi-Digest-The-Infinity-AI-BuildFest-2026-) — Top 100, Infinity AI BuildFest 2026 (3,626 participants)
+Culturally intelligent nutrition platform for Bangladeshi food — photo plate analysis, Banglish meal parsing, Gemini-powered guidance with deterministic safety fallbacks.
+`TanStack Start` `React` `TypeScript` `Gemini` `Supabase` · [Live demo](https://project-rae6k.vercel.app/)
 
-<strong>Built with:</strong> Next.js App Router, TypeScript, Prisma ORM, Supabase/PostgreSQL
+### [CourseVault AI](https://github.com/muhammadTasin/Bracu-coursevault-ai)
+University resource manager with RLS-backed course folders and a Three.js visual layer.
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Three.js` · [Live demo](https://bracu-coursevault-ai.vercel.app)
 
----
-
-<h3>Aircraft Maintenance Tracker v2</h3>
-
-A role-aware maintenance dashboard for tracking aircraft records, maintenance tasks, defects, operational alerts, and technical history.
-
-<strong>Built with:</strong> React, Vite, Node.js, Express, MongoDB, Mongoose, JWT
-
----
-
-<h3>Falah — Ibadah & Amal Tracker</h3>
-
-A personal habit-tracking app with Google login, per-user Firestore data, prayer-time integration, and optional AI-generated reflections.
-
-<strong>Built with:</strong> React, TypeScript, Vite, Firebase Auth, Firestore, Firebase Hosting, Google GenAI
+### [Research LaTeX Studio](https://github.com/muhammadTasin/Latex-Converter)
+Converts messy PDFs/OCR/plain text into structured, compilable LaTeX — published limitations instead of overclaiming accuracy.
+`Next.js` `TypeScript` `pdf-parse` `Tesseract.js` · [Live demo](https://latex-converter-coral.vercel.app)
 
 ---
 
-<h3>Flutter App Development</h3>
+<h2 align="left">🧪 More Builds</h2>
 
-Hands-on experience building Flutter-based mobile app flows with dashboard UI, navigation, role-based screens, backend-connected structures, and APK-ready testing flows.
-
----
-
-<h2 align="left">📌 Popular Repositories</h2>
-
-- **[SalesBondhu-AI](https://github.com/muhammadTasin/SalesBondhu-AI)** - AI-powered sales assistant platform
-- **[Desi Digest](https://github.com/muhammadTasin/DesiDigest)** - South Asian content aggregation platform
-- **[CourseVault](https://github.com/muhammadTasin/CourseVault)** - Course management and learning platform
-- **[LaTeX Tool](https://github.com/muhammadTasin/LaTeX-Tool)** - LaTeX document compilation and rendering tool
+- **[Qasas](https://github.com/muhammadTasin/Qasas-)** — Full-stack story publishing platform with auth, reactions, comments, and read-time analytics. `Next.js` `TypeScript` `Prisma` `Supabase`
+- **[Aircraft Maintenance Tracker v2](https://github.com/muhammadTasin/aircraft-maintenance-tracker-v2-publish-ready)** — Role-aware fleet maintenance, defect, and task tracking. `React` `Node.js` `Express` `MongoDB`
+- **[Falah](https://github.com/muhammadTasin/falah-web)** — Personal ibadah tracker with prayer times, Firebase, and optional AI reflections. `React` `TypeScript` `Firebase`
 
 ---
 
@@ -220,13 +203,13 @@ Hands-on experience building Flutter-based mobile app flows with dashboard UI, n
 - Backend API design and authentication
 - Flutter mobile app architecture
 - AI-integrated product development
-- Linux environment handling, Kali Linux practice, and VirtualBox-based VM workflows
+- Linux environment handling, Kali Linux practice, VirtualBox VM workflows
 - Production-minded development, documentation, and security awareness
 
 ---
 
 <h2 align="left">📬 Contact</h2>
 
-- GitHub: https://github.com/muhammadTasin
-- LinkedIn: https://www.linkedin.com/in/md-tasfiq-tasin-701634359/
-- Email: [muhammadtasin18@gmail.com](mailto:muhammadtasin18@gmail.com)
+- 📧 muhammadtasin18@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-tasfiq-tasin-701634359/) · [Portfolio](https://muhammad-tasin-portfolio.vercel.app/)
+- 📍 Dhaka, Bangladesh — open to internships & junior roles
